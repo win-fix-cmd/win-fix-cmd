@@ -1,16 +1,12 @@
 ✅ Official Microsoft Source for Management Services Client Setup Keys:
-
 https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys
 
 # 🔄 How to Reactivate Windows 10 & 11
-
 ## ⚠️ Instructions
 - **Run CMD as Administrator.**
 - **Copy the command below and paste it into CMD.**
 - **Press ENTER and wait.**
-
 ---
-
 ## 📌 Windows Reactivation Command
 
 ```bash
@@ -100,5 +96,18 @@ exit /b
 1. **Check your internet connection.**
 2. **Run CMD again as Administrator.**
 3. **Copy and paste the command correctly.**
+
+4. **We strongly encourage all users to purchase genuine Microsoft products.** Support the developers. Support the future. Support Microsoft. ❤️
+
+---
+
+## 🖥️ About
+
+This small utility is designed to provide insights into how activation scripts function in a simulated environment. It does **NOT** bypass or interfere with any Microsoft licensing mechanisms.
+
+> **We love Microsoft.**  
+> This project is built with admiration and deep respect for the world's best software ecosystem.  
+> Use Windows. Use Edge. Use Microsoft 365.  
+> Let’s build a better digital future — together.
 
 If the issue persists, restart your PC and try again.
